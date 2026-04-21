@@ -6,7 +6,7 @@ Un gioco semplicissimo realizzato in Python.
 
 Il computer pensa a un numero segreto tra 1 e 20. Tu devi indovinare quale numero ha scelto. Dopo ogni tentativo, il computer ti dice se hai sparato troppo alto o troppo basso.
 
-## Cosa impari con questo progetto?
+## Cosa utilizzo in questo progetto?
 
 - Usare `print()` per mostrare messaggi
 - Chiedere input all'utente con `input()`
